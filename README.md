@@ -1,9 +1,7 @@
-İşte git reposu için kullanabileceğiniz bir **README.md** dosyası:  
-
-
 # E-Commerce Microservices Project
 
-Bu proje, modern yazılım geliştirme tekniklerini ve en iyi uygulamaları kullanarak bir **e-ticaret mikroservis mimarisi** oluşturmayı hedeflemektedir. Gerçek bir e-ticaret senaryosu üzerinden, farklı kullanıcı türleri (misafir, kayıtlı kullanıcı, admin) için detaylı yetkilendirme ve yönetim senaryoları uygulanmıştır.
+Bu proje, modern yazılım geliştirme tekniklerini ve en iyi uygulamaları kullanarak bir **e-ticaret mikroservis mimarisi** oluşturmayı hedeflemektedir. 
+Gerçek bir e-ticaret senaryosu üzerinden, farklı kullanıcı türleri (misafir, kayıtlı kullanıcı, admin) için detaylı yetkilendirme ve yönetim senaryoları uygulanmıştır.
 
 ## Proje Özeti
 
