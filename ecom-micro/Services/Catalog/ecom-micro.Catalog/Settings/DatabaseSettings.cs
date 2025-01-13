@@ -1,6 +1,6 @@
 ﻿namespace ecom_micro.Catalog.Settings
 {
-    public interface IDatabaseSettings
+    public class DatabaseSettings : IDatabaseSettings
     {
         public string CategoryCollectionName { get; set; }
         public string ProductCollectionName { get; set; }
