@@ -70,7 +70,3 @@ Proje aşağıdaki gibi tasarlanmıştır:
 - **Veritabanı**: PostgreSQL, MongoDB, MSSQL
 - **Konteynerizasyon**: Docker
 - **Gerçek Zamanlı Bildirimler**: SignalR
-
-
-
-Bu README dosyası, projeyi detaylıca açıklarken, izlenilen eğitimi belli etmeden kendi geliştirdiğiniz bir proje izlenimi verecek şekilde düzenlenmiştir.
