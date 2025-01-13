@@ -14,6 +14,6 @@ namespace ecom_micro.Catalog.Entities
         public decimal ProductPrice { get; set; }
         public string CategoryId { get; set; }
         [BsonIgnore]
-        public string Category { get; set; }
+        public Category Category { get; set; }
     }
 }
