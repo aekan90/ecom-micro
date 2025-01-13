@@ -1,0 +1,6 @@
+@ecom_micro.Catalog_HostAddress = http://localhost:5185
+
+GET {{ecom_micro.Catalog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
